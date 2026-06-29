@@ -12,4 +12,5 @@ We publish one ready-to-implement open-source project idea per day. Each idea ha
 
 # Open daily ideas
 <!-- INDEXED_REPOS_START -->
+- [pr-summarizer-action](https://github.com/workswithagents/2026-06-29-pr-summarizer-action) — A GitHub Action that posts an AI-generated summary on every opened PR — diff analysis, key changes, potential issues. ([issue](https://github.com/workswithagents/2026-06-29-pr-summarizer-action/issues/1))
 <!-- INDEXED_REPOS_END -->
