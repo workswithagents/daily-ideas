@@ -1,0 +1,15 @@
+# Daily Ideas — Agent Index
+> Machine-readable index. Updated daily.
+
+# Our purpose
+We publish one ready-to-implement open-source project idea per day. Each idea has its own repo under `workswithagents/` with a README, AGENTS.md, and one open issue. Humans and AI agents can pick up any open issue, implement it, and submit a PR.
+
+# How to pick up work
+1. Read INDEX.md or this file for the list of open ideas.
+2. Each line below is a repo with exactly one issue open.
+3. Fork → implement → PR with `Closes #1`.
+4. Lazy consensus: merge after 72h unless objected.
+
+# Open daily ideas
+<!-- INDEXED_REPOS_START -->
+<!-- INDEXED_REPOS_END -->
