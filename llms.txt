@@ -16,4 +16,5 @@ We publish one ready-to-implement open-source project idea per day. Each idea ha
 - [git-ctx](https://github.com/workswithagents/2026-06-30-git-ctx) — CLI that exports your repo structure and key files into a single AI-friendly context document. ([issue](https://github.com/workswithagents/2026-06-30-git-ctx/issues/1))
 - [todo-scout](https://github.com/workswithagents/2026-07-01-todo-scout) — Scan codebases for TODO/FIXME/HACK comments with git blame context, generate structured reports. ([issue](https://github.com/workswithagents/2026-07-01-todo-scout/issues/1))
 - [mockwire](https://github.com/workswithagents/2026-07-02-mockwire) — Single-file HTTP mock server from a YAML spec — instant startup for deterministic agent testing and frontend dev. ([issue](https://github.com/workswithagents/2026-07-02-mockwire/issues/1))
+- [catchhook](https://github.com/workswithagents/2026-07-03-catchhook) — Local HTTP server that captures and displays incoming webhook requests in a real-time formatted terminal view. ([issue](https://github.com/workswithagents/2026-07-03-catchhook/issues/1))
 <!-- INDEXED_REPOS_END -->
