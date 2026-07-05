@@ -18,4 +18,5 @@ We publish one ready-to-implement open-source project idea per day. Each idea ha
 - [mockwire](https://github.com/workswithagents/2026-07-02-mockwire) — Single-file HTTP mock server from a YAML spec — instant startup for deterministic agent testing and frontend dev. ([issue](https://github.com/workswithagents/2026-07-02-mockwire/issues/1))
 - [catchhook](https://github.com/workswithagents/2026-07-03-catchhook) — Local HTTP server that captures and displays incoming webhook requests in a real-time formatted terminal view. ([issue](https://github.com/workswithagents/2026-07-03-catchhook/issues/1))
 - [docdiff](https://github.com/workswithagents/2026-07-04-docdiff) — CLI that flags stale docs by comparing public API symbols against what's actually in your code ([issue](https://github.com/workswithagents/2026-07-04-docdiff/issues/1))
+- [envlock](https://github.com/workswithagents/2026-07-05-envlock) — CLI to detect, validate, and sync .env drift — catch missing vars before they hit production. ([issue](https://github.com/workswithagents/2026-07-05-envlock/issues/1))
 <!-- INDEXED_REPOS_END -->
