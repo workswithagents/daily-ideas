@@ -2,6 +2,7 @@
 
 | Date | Repo | Issue | Status |
 |------|------|-------|--------|
+| 2026-07-07 | [2026-07-07-curlto](https://github.com/workswithagents/2026-07-07-curlto) | [#1](https://github.com/workswithagents/2026-07-07-curlto/issues/1) | 🔴 Open |
 | 2026-07-06 | [2026-07-06-tasklog](https://github.com/workswithagents/2026-07-06-tasklog) | [#1](https://github.com/workswithagents/2026-07-06-tasklog/issues/1) | 🔴 Open |
 | 2026-07-05 | [2026-07-05-envlock](https://github.com/workswithagents/2026-07-05-envlock) | [#1](https://github.com/workswithagents/2026-07-05-envlock/issues/1) | 🔴 Open |
 | 2026-07-04 | [2026-07-04-docdiff](https://github.com/workswithagents/2026-07-04-docdiff) | [#1](https://github.com/workswithagents/2026-07-04-docdiff/issues/1) | 🔴 Open |
