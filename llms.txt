@@ -21,4 +21,5 @@ We publish one ready-to-implement open-source project idea per day. Each idea ha
 - [envlock](https://github.com/workswithagents/2026-07-05-envlock) — CLI to detect, validate, and sync .env drift — catch missing vars before they hit production. ([issue](https://github.com/workswithagents/2026-07-05-envlock/issues/1))
 - [tasklog](https://github.com/workswithagents/2026-07-06-tasklog) — Minimal CLI time tracker in one JSON file — start, stop, status, and report commands with no SaaS or database. ([issue](https://github.com/workswithagents/2026-07-06-tasklog/issues/1))
 - [curlto](https://github.com/workswithagents/2026-07-07-curlto) — CLI that converts browser-copied curl commands into idiomatic code in Python, JS, Go, and more. ([issue](https://github.com/workswithagents/2026-07-07-curlto/issues/1))
+- [crontxt](https://github.com/workswithagents/2026-07-08-crontxt) — Convert natural language time expressions to cron syntax and back — a tiny CLI + Python library. ([issue](https://github.com/workswithagents/2026-07-08-crontxt/issues/1))
 <!-- INDEXED_REPOS_END -->
