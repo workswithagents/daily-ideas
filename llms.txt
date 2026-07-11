@@ -24,4 +24,5 @@ We publish one ready-to-implement open-source project idea per day. Each idea ha
 - [crontxt](https://github.com/workswithagents/2026-07-08-crontxt) — Convert natural language time expressions to cron syntax and back — a tiny CLI + Python library. ([issue](https://github.com/workswithagents/2026-07-08-crontxt/issues/1))
 - [md2slides](https://github.com/workswithagents/2026-07-09-md2slides) — Convert markdown files to self-contained HTML slide decks in one command — zero JS framework, zero npm. ([issue](https://github.com/workswithagents/2026-07-09-md2slides/issues/1))
 - [jsonmask](https://github.com/workswithagents/2026-07-10-jsonmask) — CLI tool to mask sensitive JSON fields (API keys, secrets, passwords) by dot-notation path — safe config sharing in one piped command. ([issue](https://github.com/workswithagents/2026-07-10-jsonmask/issues/1))
+- [confhist](https://github.com/workswithagents/2026-07-11-confhist) — Track JSON/YAML/TOML config files in a local SQLite DB and surface key-level diffs on each run. ([issue](https://github.com/workswithagents/2026-07-11-confhist/issues/1))
 <!-- INDEXED_REPOS_END -->
